@@ -1,2 +1,7 @@
-# social-media
+# Social-Media
 Este projeto é sobre como funciona e por onde começar como um social media usando IA
+
+# Contexto e Objetivos
+Este projeto tem como objetivo criar um guia completo e estratégico sobre a profissão de Social Media no cenário atual. 
+Minha intenção é desmistificar o papel desse profissional, demonstrando que ele atua como a voz estratégica da marca e um gestor de comunidades essencial, unindo criatividade e análise de dados. 
+Quero detalhar as responsabilidades reais da área e oferecer um roteiro prático para quem deseja ingressar e se destacar no mercado digital hoje, abordando desde as competências técnicas até a visão de negócio necessária.
